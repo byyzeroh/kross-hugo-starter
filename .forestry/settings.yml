@@ -30,7 +30,6 @@ sections:
 - type: document
   path: Document
   label: Document
-  match: "**/*"
 - type: document
   path: config.toml
   label: Configuration
